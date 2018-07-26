@@ -18,12 +18,32 @@ let helen = {
     },
 
     peopleLikeMe: [
-        "Barack Obama", "Oprah Winfrey",  "John Cusack"
+
+    {
+        name: "Barack Obama",
+        image: "https://storage.googleapis.com/neris/public/images/types/famous/diplomats_ENFJ_barack_obama.svg"
+    },
+    {
+        name: "Lucy Liu",
+        image: "https://storage.googleapis.com/neris/public/images/types/famous/diplomats_ENFJ_lucy_liu.svg"
+    },
+    {
+        name: "John Cusack",
+        image: "https://storage.googleapis.com/neris/public/images/types/famous/diplomats_ENFJ_john_cusack.svg"
+
+    }
+
     ],
+        
+    
     communication: {
-        lilSibCom: "I communicate best by getting on their level and really helping them through the tough parts of school and take them out to ice cream if needed.  Ice cream is truly my love language",
-        instructorCom:"I would LOVE my instructors to bring me pizza and ice cream.  Seriously though, I love any kind of feedback and encouragement.",
-        teamMatesCom: "I communicate best with open and honest collaberation, when working on projects.  I am 100% a words of affirmation girl and truly gleen on constructive feedback.",
+        
+        lilSibCom: ["How would I communicate best with my little sib", "I communicate best by getting on their level and really helping them through the tough parts of school and take them out to ice cream if needed.  Ice cream is truly my love language"],
+
+        instructorCom:
+            ["How would I like my instructors to communicate with me?", "I would LOVE my instructors to bring me pizza and ice cream.  Seriously though, I love any kind of feedback and encouragement."],
+
+        teamMatesCom: ["How would I like my teammates to communicate with me?", "I communicate best with open and honest collaberation, when working on projects.  I am 100% a words of affirmation girl and truly gleen on constructive feedback."]
     }
 
 }
