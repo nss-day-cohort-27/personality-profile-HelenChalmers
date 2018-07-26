@@ -21,9 +21,9 @@ let helen = {
         "Barack Obama", "Oprah Winfrey",  "John Cusack"
     ],
     communication: {
-        lilSibCom: "I communicate best by getting on their level and take them out to ice cream.",
-        instructorCom:"I would LOVE my instructors to bring me pizza and ice cream",
-        teamMatesCom: "I love my teammates to tell me how awesome I am.  I am a verbal affirmation.",
+        lilSibCom: "I communicate best by getting on their level and really helping them through the tough parts of school and take them out to ice cream if needed.  Ice cream is truly my love language",
+        instructorCom:"I would LOVE my instructors to bring me pizza and ice cream.  Seriously though, I love any kind of feedback and encouragement.",
+        teamMatesCom: "I communicate best with open and honest collaberation, when working on projects.  I am 100% a words of affirmation girl and truly gleen on constructive feedback.",
     }
 
 }
